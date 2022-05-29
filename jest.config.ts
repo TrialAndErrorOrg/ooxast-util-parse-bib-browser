@@ -1,3 +1,4 @@
+/* eslint-disable */
 const config = {
   displayName: 'ooxast-util-parse-bib',
   preset: '../../../jest.preset.js',
